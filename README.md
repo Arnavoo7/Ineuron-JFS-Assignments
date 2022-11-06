@@ -9,11 +9,8 @@ Q1. Write a program(WAP) to print INEURON using pattern programming logic.
 Q2. Write a program to print
 
 1111
-
 2222
-
 3333
-
 4444
 
 Q3. 3. WAP to print 
